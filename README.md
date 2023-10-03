@@ -1,15 +1,10 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
-
 ### DATE: 
-
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
-
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/b551f195-9877-49a2-99bb-a9efcfb3381a)
-
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
-
 ## PROCEDURE:
 
 ## Assembly of Polar 3D Printer
@@ -32,9 +27,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
 
 ## Output:
+![image](https://github.com/hariprasath5106/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/111515488/1db70c8f-a854-40f9-9a62-784d38c3e100)
 
-### Name:
-### Register Number:
-
+### Name: SHARANGINI T K
+### Register Number: 212222230143
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
